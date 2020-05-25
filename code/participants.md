@@ -1,5 +1,4 @@
 This project is about assignment 1 completion for DevOps Training GitHub Module.
 This training is part of APAC program at Citiustech.
 Version: 1.0
-Author: Kunal Dethe
-Date: 25 May 2020
+Last modified: 25 May 2020
